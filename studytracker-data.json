@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27T04:42:59.007Z",
+  "updatedAt": "2026-06-27T04:44:35.068Z",
   "progress": {
     "dsa.advanced.graphs": "done"
   },
@@ -18,6 +18,18 @@
           "Flash Attention"
         ],
         "id": "user-mqvvjc9a-1kccr"
+      },
+      {
+        "title": "How Flash Attention Works",
+        "type": "web",
+        "pillarIds": [
+          "llms"
+        ],
+        "url": "https://www.youtube.com/watch?v=gBMO1JZav44",
+        "tags": [
+          "Flash Attention"
+        ],
+        "id": "user-mqvvlj7e-eqh3t"
       }
     ],
     "status": {}
