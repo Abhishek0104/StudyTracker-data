@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27T04:42:52.752Z",
+  "updatedAt": "2026-06-27T04:42:59.007Z",
   "progress": {
     "dsa.advanced.graphs": "done"
   },
@@ -20,9 +20,7 @@
         "id": "user-mqvvjc9a-1kccr"
       }
     ],
-    "status": {
-      "user-mqvvjc9a-1kccr": "to-read"
-    }
+    "status": {}
   },
   "curriculum": [
     {
