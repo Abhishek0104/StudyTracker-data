@@ -1,8 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27T04:44:35.068Z",
+  "updatedAt": "2026-06-28T13:47:23.042Z",
   "progress": {
-    "dsa.advanced.graphs": "done"
+    "dsa.advanced.graphs": "done",
+    "llms.efficiency.lora": "in-progress"
   },
   "resources": {
     "user": [
